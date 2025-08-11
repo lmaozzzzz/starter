@@ -80,3 +80,8 @@ with open('output.txt', 'w', encoding='utf-8') as f:
     f.write(" -> ".join([f"{node} ({graph[node][0]})" for node in path]) + "\n")
 
 print("Kết quả đã được lưu vào output.txt")
+
+
+
+
+LMAOZZZZZZ
