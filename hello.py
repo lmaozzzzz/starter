@@ -84,5 +84,5 @@ print("Kết quả đã được lưu vào output.txt")
 
 
 
-lmaozzzzzzzzzzzzzzzzzzzzz
-sadháhđánkládkládá
+lmaozzzzzzzzzzzzzzzzzz
+dong nay dã sua
